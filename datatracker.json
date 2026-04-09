@@ -1,0 +1,18 @@
+{
+    "allowances": [
+        {
+            "amount": 5698.0,
+            "description": "mommy"
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 5500.0,
+            "description": "daniel caesar concert tix"
+        },
+        {
+            "amount": 100.0,
+            "description": "breakfast"
+        }
+    ]
+}
